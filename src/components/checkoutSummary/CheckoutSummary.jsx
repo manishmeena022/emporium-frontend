@@ -28,7 +28,7 @@ export const CheckoutSummary = () => {
                     </p>
                     <div className={styles.text}>
                         <h4>Subtotal:</h4>
-                        <h3>${cartTotalAmount.toFixed(2)}</h3>
+                        <h3>₹{cartTotalAmount.toFixed(2)}</h3>
                     </div>
                     
                     {cartItems.map((item, index) => {
