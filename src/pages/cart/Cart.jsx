@@ -126,7 +126,7 @@ export const Cart = () => {
                 <h4>
                   <b>SubTotal :</b>
                 </h4>
-                <h3>{`$${cartTotalAmount.toFixed(2)}`}</h3>
+                <h3>{`₹${cartTotalAmount.toFixed(2)}`}</h3>
               </div>
               <p>Tax an shipping calculated at checkout</p>
               <button className="--btn --btn-primary --btn-block" onClick={checkout}>Checkout</button>
