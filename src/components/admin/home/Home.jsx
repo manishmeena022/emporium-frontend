@@ -35,7 +35,7 @@ export const Home = () => {
       <div className={styles["info-box"]}>
         <InfoBox cardClass={`${styles.card} ${styles.card1}`} 
         title={"Earnings"}
-        count={`$${totalOrderAmount}`}
+        count={`₹${totalOrderAmount}`}
         icon={<img src={earningimg} alt='earning' className='h-10' />}
         />
         <InfoBox cardClass={`${styles.card} ${styles.card2}`} 
