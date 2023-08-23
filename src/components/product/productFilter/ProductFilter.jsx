@@ -67,7 +67,7 @@ export const ProductFilter = () => {
           
         </select>
         <h4>Price</h4>
-        <p>{`$${price}`}</p>
+        <p>{`₹${price}`}</p>
         <div className={styles.price}>
           <input type='range' value={price} onChange={(e) => setPrice(e.target.value)} min={minPrice} max={maxPrice} />
         </div>
