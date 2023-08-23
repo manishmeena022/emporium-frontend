@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2d6c09d.css",
+    "main.js": "/static/js/main.7b2570e8.js",
+    "static/media/spinner.jpg": "/static/media/spinner.afa973eee05e0ebff95a.jpg",
+    "static/media/register.png": "/static/media/register.c63eced99fcb38972a6c.png",
+    "static/media/forgot.png": "/static/media/forgot.cfba148d722f088aeddb.png",
+    "static/media/login.png": "/static/media/login.78ccab5e2cbeadd1d2f2.png",
+    "static/media/user.png": "/static/media/user.d54b5cea3dabfb92c990.png",
+    "static/media/google.png": "/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/bin.png": "/static/media/bin.a1f8f9df8e71c3c6f7a7.png",
+    "static/media/trolley-cart.png": "/static/media/trolley-cart.b429867eb12f9c767a7a.png",
+    "static/media/edit.png": "/static/media/edit.38fd9122023085654ddf.png",
+    "static/media/loader.gif": "/static/media/loader.9d11df4bdd0bb34de773.gif",
+    "static/media/location.png": "/static/media/location.084da7f156b6c3f45476.png",
+    "static/media/order.png": "/static/media/order.d34ef92a6a750206721a.png",
+    "static/media/email.png": "/static/media/email.b32132577b7ab2d8847a.png",
+    "static/media/menu-bar.png": "/static/media/menu-bar.191ec186eb7e7ad0c611.png",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.09fab32ee01ace19d440.png",
+    "static/media/twitter.png": "/static/media/twitter.8e65601e69067aadfe55.png",
+    "static/media/list.png": "/static/media/list.59fca4779c24b3898f00.png",
+    "static/media/add-cart.png": "/static/media/add-cart.91f734bb38bd06badd59.png",
+    "static/media/savings.png": "/static/media/savings.9434cf04f31c3a16f426.png",
+    "index.html": "/index.html",
+    "main.a2d6c09d.css.map": "/static/css/main.a2d6c09d.css.map",
+    "main.7b2570e8.js.map": "/static/js/main.7b2570e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d6c09d.css",
+    "static/js/main.7b2570e8.js"
+  ]
+}
