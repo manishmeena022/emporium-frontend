@@ -122,7 +122,7 @@ export const ViewProducts = () => {
                       {category}
                     </td>
                     <td>
-                      {`$${price}`}
+                      {`₹${price}`}
                     </td>
                     <td className={styles.icon}>
                       <Link to={`/admin/add-product/${id}`} >
